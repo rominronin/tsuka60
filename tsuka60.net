@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/Volumes/Internal File Store/Google Drive/KEYBOARDS/Katana60 v2/tsuka60/tsuka60.sch")
-    (date "Saturday, 14 September 2019 at 22:48:35")
+    (date "Saturday, 14 September 2019 at 23:11:35")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -839,7 +839,7 @@
       (tstamp 5DDD908E))
     (comp (ref MX53)
       (value MX-LED)
-      (footprint MX_Alps_Hybrid:MX-2U-NoLED)
+      (footprint MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED)
       (libsource (lib MX_Alps_Hybrid) (part MX-NoLED) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5DDD909A))
