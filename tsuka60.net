@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/Volumes/Internal File Store/Google Drive/KEYBOARDS/Katana60 v2/tsuka60/tsuka60.sch")
-    (date "Saturday, 14 September 2019 at 22:42:39")
+    (date "Saturday, 14 September 2019 at 22:48:35")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -24,7 +24,7 @@
       (tstamp 5D801115))
     (comp (ref USB1)
       (value Molex-0548190589)
-      (footprint random-keyboard-parts:Molex-0548190589)
+      (footprint random-keyboard-parts:Molex-0548190519)
       (libsource (lib random-keyboard-parts) (part Molex-0548190589) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D7FE190))
