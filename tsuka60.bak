@@ -911,15 +911,15 @@ Text GLabel 5750 12850 2    50   Input ~ 0
 Col1
 Text GLabel 5750 12950 2    50   Input ~ 0
 Col2
-Text GLabel 5750 13050 2    50   Input ~ 0
+Text GLabel 5750 11250 2    50   Input ~ 0
 Col3
-Text GLabel 5750 13150 2    50   Input ~ 0
+Text GLabel 5750 11350 2    50   Input ~ 0
 Col4
 Text GLabel 5750 13250 2    50   Input ~ 0
 Col5
-Text GLabel 5750 11350 2    50   Input ~ 0
+Text GLabel 5750 13050 2    50   Input ~ 0
 Col6
-Text GLabel 5750 11250 2    50   Input ~ 0
+Text GLabel 5750 13150 2    50   Input ~ 0
 Col7
 Text GLabel 5750 10950 2    50   Input ~ 0
 Col8

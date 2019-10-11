@@ -901,9 +901,9 @@ Text GLabel 5750 12550 2    50   Input ~ 0
 Row1
 Text GLabel 5750 12050 2    50   Input ~ 0
 Row2
-Text GLabel 5750 10750 2    50   Input ~ 0
-Row3
 Text GLabel 5750 10850 2    50   Input ~ 0
+Row3
+Text GLabel 5750 10750 2    50   Input ~ 0
 Row4
 Text GLabel 5750 12750 2    50   Input ~ 0
 Col0
@@ -911,9 +911,9 @@ Text GLabel 5750 12850 2    50   Input ~ 0
 Col1
 Text GLabel 5750 12950 2    50   Input ~ 0
 Col2
-Text GLabel 5750 11350 2    50   Input ~ 0
-Col3
 Text GLabel 5750 11250 2    50   Input ~ 0
+Col3
+Text GLabel 5750 11350 2    50   Input ~ 0
 Col4
 Text GLabel 5750 13250 2    50   Input ~ 0
 Col5
