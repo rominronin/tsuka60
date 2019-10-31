@@ -1556,8 +1556,6 @@ F 3 "~" V 19900 7400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	18800 7300 18650 7300
-Wire Wire Line
-	18650 7500 19900 7500
 Connection ~ 18650 7500
 $Comp
 L Device:D_Small D74
@@ -2285,10 +2283,6 @@ Wire Wire Line
 Wire Wire Line
 	8650 6250 11150 6250
 Wire Wire Line
-	4900 7500 9900 7500
-Wire Wire Line
-	12400 7500 17400 7500
-Wire Wire Line
 	17750 5850 17750 7100
 Wire Wire Line
 	20250 5850 20250 7100
@@ -2774,4 +2768,25 @@ Connection ~ 17750 2100
 Wire Wire Line
 	16500 1250 16500 2100
 Connection ~ 16500 2100
+Wire Wire Line
+	4900 7500 6150 7500
+Connection ~ 6150 7500
+Wire Wire Line
+	6150 7500 7400 7500
+Connection ~ 7400 7500
+Wire Wire Line
+	7400 7500 9900 7500
+Wire Wire Line
+	18650 7500 19900 7500
+Wire Wire Line
+	12400 7500 13650 7500
+Connection ~ 13650 7500
+Wire Wire Line
+	13650 7500 14900 7500
+Connection ~ 16150 7500
+Wire Wire Line
+	16150 7500 17400 7500
+Connection ~ 14900 7500
+Wire Wire Line
+	14900 7500 16150 7500
 $EndSCHEMATC
